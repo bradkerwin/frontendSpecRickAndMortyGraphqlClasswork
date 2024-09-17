@@ -1,4 +1,3 @@
-import React from "react";
 import { useQuery } from "@apollo/client";
 import { GET_CHARACTER } from "../queries/queries";
 import { Container, Card, Col, Spinner } from "react-bootstrap";

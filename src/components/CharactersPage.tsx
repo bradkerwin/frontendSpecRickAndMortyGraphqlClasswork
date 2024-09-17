@@ -1,5 +1,4 @@
 import { useQuery } from '@apollo/client'
-import React from 'react'
 import { GET_CHARACTERS } from '../queries/queries';
 import { Container, Row, Col, Card, Button, Spinner }from 'react-bootstrap';
 import { Link } from 'react-router-dom';
